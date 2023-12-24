@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   https://github.com/gaganWanjari/RestAPI.git
 2. Install dependencies:
 	
 	npm install
